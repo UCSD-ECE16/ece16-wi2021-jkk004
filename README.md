@@ -1,2 +1,5 @@
 I heard good things about ECE 16 so I decided to take it
-<div class="tenor-gif-embed" data-postid="10480536" data-share-method="host" data-width="100%" data-aspect-ratio="1.3174603174603174"><a href="https://tenor.com/view/error-wait-computer-download-cat-gif-10480536">Error Wait GIF</a> from <a href="https://tenor.com/search/error-gifs">Error GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![371908570_SINE_WAVE_400px](https://user-images.githubusercontent.com/62976976/103980340-8e26f880-5134-11eb-9fcb-349eb26088b5.gif)
+
+Thank you Clip Art or cliply.co for this GIF
