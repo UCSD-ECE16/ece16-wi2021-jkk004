@@ -1,3 +1,5 @@
+GIFS were too big to upload so I have all the files here too https://drive.google.com/drive/folders/1r6yYTptlvTD3sqaO3aa74itl5xW0lpe6?usp=sharing
+
 Challenge 1
 
 ![c11](https://user-images.githubusercontent.com/62976976/105804849-a4ff8480-5f55-11eb-86c2-702f5bac9d83.PNG)
