@@ -8,5 +8,7 @@ Challenge 1
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/62976976/105813068-1a725180-5f64-11eb-92e1-9e4091fc685e.gif)
 
 ![image](https://user-images.githubusercontent.com/62976976/105808982-ac2a9080-5f5d-11eb-9c69-31987b7f28a8.png)
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/62976976/105815988-8d7dc700-5f68-11eb-813e-e5dc42a255f0.gif)
 
 ![image](https://user-images.githubusercontent.com/62976976/105812926-e1d27800-5f63-11eb-9cdd-355c1c11c28a.png)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/62976976/105815716-3677f200-5f68-11eb-9392-00d2b7ba64ea.gif)
