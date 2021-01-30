@@ -2,7 +2,7 @@ I made a folder with all the videos due to my gifs being too short when optimize
 
 Challenge 1:
 
-In my code, I used the reading of 2000 because I noticed that that was about where the graph peaked when it got tapped. This way may be unconventional, but it got the job done. I added a delay of 1100 whenever it was tapped because if I didn't, every tap would add like 10 to the number of taps
+In my code, I used the reading of 2000 because I noticed that that was about where the graph peaked when it got tapped. This way may be unconventional, but it got the job done. I added a delay of 1100 whenever it was tapped because if I didn't, every tap would add like 10 to the number of taps. 1100 ms or 1.1 second was just the perfect amount of time for the thing to stop shaking after it got a reading of 2000.
 
 ![image](https://user-images.githubusercontent.com/62976976/106346183-02534880-626a-11eb-99fe-98aa9b899244.png)
 
