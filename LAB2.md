@@ -7,6 +7,9 @@ In my code, I used the reading of 2000 because I noticed that that was about whe
 ![image](https://user-images.githubusercontent.com/62976976/106346183-02534880-626a-11eb-99fe-98aa9b899244.png)
 
 
+![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/62976976/106347318-6843ce00-6272-11eb-8153-a1af1856c7bc.gif)
+
+
 
 ![image](https://user-images.githubusercontent.com/62976976/106346496-7c84cc80-626c-11eb-9450-bbbdd31dce6a.png)
 
