@@ -31,4 +31,10 @@ This is the number of taps resetting after being held down for 2 seconds. You ca
 This is my state machine drawing, but Im not too sure if it is correct. I tried my best :)
 ![statemachine](https://user-images.githubusercontent.com/62976976/106565050-0047ee80-64e3-11eb-9733-839e0a4928e7.jpg)
 
+Full demonstration of everyting. In the beginning, I tap it like normal to 5, and then from there I hold onto it for 2 seconds, so it resets to zero. Then I tap it up to 6, and then I stop tapping so after 4 seconds, it slowly starts to reset back to 0.
+
+
+![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/62976976/106567784-34bda980-64e7-11eb-8ffd-914c3f064bbd.gif)
+
+
 
