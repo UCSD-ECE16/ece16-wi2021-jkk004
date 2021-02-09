@@ -1,5 +1,5 @@
-
-
+import enchant as e
+dictionary = e.Dict('en_US')
 def englishToPig(word):
     vowels = ['a' , 'e', 'i' , 'o', 'u']
     state = 0
@@ -63,7 +63,7 @@ def pigToEnglish(word):
         word = word[:-2]
         while cycle == 0:
             word = word[-1] + word[:-1]
-            if word[0] not in vowels:
+            if dictionary.check(word) == True:
                 cycle = 1
         if upperstate == 1:
             word = word.lower()
@@ -109,4 +109,3 @@ word1 = (correctPunctuation(englishToPig(word)))
 print(word + " is  " + word1 + " in Pig Latin.")
 word2 = pigToEnglish(word1)
 print(word1 + " is " + word2 + " in English.")
-
