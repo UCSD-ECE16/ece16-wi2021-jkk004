@@ -63,7 +63,7 @@ def pigToEnglish(word):
         word = word[:-2]
         while cycle == 0:
             word = word[-1] + word[:-1]
-            if dictionary.check(word) == True:
+            if dictionary.check(word) == True: #This is where i use pyenchant if i could
                 cycle = 1
         if upperstate == 1:
             word = word.lower()
