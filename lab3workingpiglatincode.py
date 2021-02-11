@@ -1,6 +1,7 @@
 import serial
 import time
 
+
 def englishToPig(word):
     vowels = ['a' , 'e', 'i' , 'o', 'u']
     state = 0
@@ -44,7 +45,7 @@ def englishToPig(word):
 
 def pigToEnglish(word):
     punct = ['?', '!', '.']
-    vowels = ['a' , 'e', 'i' , 'o', 'u', 'y']
+    vowels = ['a' , 'e', 'i' , 'o', 'u']
     state = 0
     cycle = 0
     upperstate = 0
@@ -63,9 +64,10 @@ def pigToEnglish(word):
     if state == 1:
         word = word[:-2]
         while cycle == 0:
-            word = word[-1] + word[:-1]
             if word[0].lower() in vowels:
                 cycle = 1
+            word = word[-1] + word[:-1]
+
         if upperstate == 1:
             word = word.lower()
             return word.capitalize() + cache[0]
@@ -131,3 +133,4 @@ if __name__== "__main__":
    main()
 if __name__== "__main__":
     main()
+
